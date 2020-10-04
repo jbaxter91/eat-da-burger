@@ -1,15 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jbaxter91 
-davidlindnerjr
-/
-Eat-Da-Burger
 const mysql = require("mysql");
 
 if(process.env.JAWSDB_URL){
